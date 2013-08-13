@@ -1,6 +1,6 @@
 "Hallo Welt"
 Wie geht's? 
 Sehr sonnig!
-dann is t ja alles gut
-dann is t ja alles gut, oder?
-Faden verloren!
+dann ist ja alles gut, oder?
+Faden wiedergefunden!
+Tschüss.
